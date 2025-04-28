@@ -1,2 +1,6 @@
 data/
 dataset/
+hatebert_finetuned/
+my_hate_model/
+quick_results/
+results/
